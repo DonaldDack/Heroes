@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HeroesGame</string>
+    <string name="heroesChoice">Герои и Злодеи</string>
+    <string name="skip">пропустить</string>
+    <string name="back">назад</string>
+    <string name="plus">+</string>
+    <string name="test"> проверить </string>
+    <string name="heroesName">Имя героя</string>
+    <string name="happy"> Поздравляем! </string>
+    <string name="enter"> Введите имя героя: </string>
+</resources>
